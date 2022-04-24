@@ -5,11 +5,11 @@
 
 - 🌱 I’m currently reading **You Don't Know JS**
 
-- 💬 Ask me about **React and Node.js**
-
 - 📫 How to reach me **mhmd21.yasser@gmail.com**
 
 - ⚡ Fun fact **I ranked in the 99th percentile in typing speed. (monkeytype and 10fastfingers leaderboards)**
+
+- 💬 Feel free to ask me about anything!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
