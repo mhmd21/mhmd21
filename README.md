@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **mhmd21.yasser@gmail.com**
 
-- ⚡ Fun fact **I ranked in the 99th percentile in typing speed with average 180 WPM. (monkeytype and 10fastfingers leaderboards)**
+- ⚡ Fun fact **I ranked in the 99th percentile in typing speed with an average of 180 WPM. (monkeytype and 10fastfingers leaderboards)**
 
 - 💬 Feel free to ask me about anything!
 
