@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Mohammed Yasser</h1>
 <h3 align="center">Software Engineer working at Thndr</h3>
 
-- 🔭 I’m currently working on [Thndr's web trading platform](https://beta-web.thndr.app/en/invest)
+- 🔭 I’m currently working on [Thndr's web trading platform](web.thndr.app)
 
 - 🌱 I’m currently reading **You Don't Know JS**
 
