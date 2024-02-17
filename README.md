@@ -1,12 +1,6 @@
 <h1 align="center">Hi, I'm Mohammed Yasser</h1>
 <h3 align="center">Software Engineer working at Thndr</h3>
 
-- 🔭 I’m currently working on [Thndr's web trading platform](https://web.thndr.app/invest)
-
-- 🌱 I’m currently reading **You Don't Know JS**
-
-- 📫 How to reach me **mhmd21.yasser@gmail.com**
-
 - ⚡ Fun fact **I ranked in the 99th percentile in typing speed with an average of 180 WPM. (monkeytype and 10fastfingers leaderboards)**
 
 - 💬 Feel free to ask me about anything!
